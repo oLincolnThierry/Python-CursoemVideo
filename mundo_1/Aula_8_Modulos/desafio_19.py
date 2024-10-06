@@ -4,7 +4,7 @@
 # Faça um programa que ajude ele, lendo o nome deles e escrevendo o do escolhido.
 import random
 
-nomes = ["Black Panther", "Solid Snake", "Kendrick Lamar", "Shadow the Hedgehog"]
+nomes = ["Lincoln", "Melissa", "Eric", "Eduardo"]
 classe = {}
 contador = 1
 
