@@ -7,5 +7,5 @@ até ter um valor correto.
 
 sex = str(input("Digite M ou F: \n")).strip().upper()[0]
 while sex not in "MmFf":
-    sex = str(input("Ô SEU CARALHO, digita só M ou F: \n")).strip().upper()[0]
+    sex = str(input("Somente M ou F: \n")).strip().upper()[0]
 print("Sexo {} registrado com sucesso.".format(sex))
